@@ -1,5 +1,5 @@
 #敢覺視界 FuVision
-
+![](Logo.png)
 
 [JavaScript Full Stack 工程師]
 --------
@@ -40,4 +40,4 @@ Javascript 已從最原始的前端 Web 控制語言，進一步使用 node.js �
 - https://www.npmjs.com/package/react-native-media-meta
 - https://www.npmjs.com/package/react-native-s3
 
-[eng_js]: 
+
