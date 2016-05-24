@@ -1,5 +1,5 @@
 #敢覺視界 FuVision
-![](coming_soon.png)
+![](coming_soon.jpg)
 
 [JavaScript Full Stack 工程師]
 --------
