@@ -1,5 +1,5 @@
 #敢覺視界 FuVision
-![](coming_soon.jpg)
+![](fuvision-fb-04.png)
 
 [JavaScript Full Stack 工程師]
 --------
@@ -10,12 +10,13 @@ Javascript 已從最原始的前端 Web 控制語言，進一步使用 node.js �
 --------
 2016 是VR (虛擬實境) 元年，HTC、Sony、Facebook、Google、Samsung等軟硬體大廠紛紛摩拳擦掌的推出最新的虛擬實境設備，為下一世代的夢想家們提供了作夢的空間。
 
-《敢覺視界》 將領先業界，推出全球第一間百坪 Htc Vive 虛擬實境遊戲中心，讓我們一同醒著作夢。
+《敢覺視界 FuVision》 領先業界，推出全球第一間百坪 Htc Vive 虛擬實境遊戲中心，讓我們一同醒著作夢。
 
 工作內容
 --------
 * 開發 VR 遊戲中心管理系統
 * 開發 VR 服務的App系統
+* 開發 VR 雲端社群
 * 協助開發、維護相關系統
 * 其他內部JS 專案工作
 
@@ -40,5 +41,4 @@ Javascript 已從最原始的前端 Web 控制語言，進一步使用 node.js �
 - https://www.npmjs.com/package/react-native-media-player
 - https://www.npmjs.com/package/react-native-media-meta
 - https://www.npmjs.com/package/react-native-s3
-
 
